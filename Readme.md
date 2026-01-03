@@ -58,8 +58,7 @@ HeartDisease-FeatureSelection/
 1. Clone this repo:
 
    ```bash
-   git clone https://github.com/yourusername/heart-disease-feature-selection.git
-   cd heart-disease-feature-selection
+   git clone https://github.com/ratn212126/Optimal-Feature-Selection-for-Heart-Disease-Risk-Prediction-main.git
    ```
 
 2. Install dependencies:
