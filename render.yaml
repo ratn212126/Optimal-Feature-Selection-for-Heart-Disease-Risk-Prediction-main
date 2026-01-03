@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: Optimal-Feature-Selection-for-Heart-Disease-Risk-Prediction
-    env: python
-    pythonVersion: 3.10.12
-    buildCommand: pip install -r requirements.txt
-    startCommand: gunicorn app:app
