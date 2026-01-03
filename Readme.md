@@ -101,3 +101,13 @@ HeartDisease-FeatureSelection/
 We will use the **UCI Heart Disease Dataset** (Framingham  dataset).
 
 ---
+
+## Deployment
+The backend API is deployed on Render and is currently live.
+
+Base URL:
+https://optimal-feature-selection-for-heart-binb.onrender.com
+
+This API can be integrated with any frontend or client application.
+
+---
